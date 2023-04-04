@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\RajaBasicQuestions\RajaBasicQuestions\bin\Release\RajaBasicQuestions.exe.config
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\RajaBasicQuestions\RajaBasicQuestions\bin\Release\RajaBasicQuestions.exe
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\RajaBasicQuestions\RajaBasicQuestions\bin\Release\RajaBasicQuestions.pdb
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\RajaBasicQuestions\RajaBasicQuestions\obj\Release\RajaBasicQuestions.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\RajaBasicQuestions\RajaBasicQuestions\obj\Release\RajaBasicQuestions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\RajaBasicQuestions\RajaBasicQuestions\obj\Release\RajaBasicQuestions.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\RajaBasicQuestions\RajaBasicQuestions\obj\Release\RajaBasicQuestions.exe
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\RajaBasicQuestions\RajaBasicQuestions\obj\Release\RajaBasicQuestions.pdb

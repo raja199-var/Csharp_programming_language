@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\ReverseEachWordOfString\ReverseEachWordOfString\bin\Debug\ReverseEachWordOfString.exe.config
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\ReverseEachWordOfString\ReverseEachWordOfString\bin\Debug\ReverseEachWordOfString.exe
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\ReverseEachWordOfString\ReverseEachWordOfString\bin\Debug\ReverseEachWordOfString.pdb
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\ReverseEachWordOfString\ReverseEachWordOfString\obj\Debug\ReverseEachWordOfString.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\ReverseEachWordOfString\ReverseEachWordOfString\obj\Debug\ReverseEachWordOfString.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\ReverseEachWordOfString\ReverseEachWordOfString\obj\Debug\ReverseEachWordOfString.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\ReverseEachWordOfString\ReverseEachWordOfString\obj\Debug\ReverseEachWordOfString.exe
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\ReverseEachWordOfString\ReverseEachWordOfString\obj\Debug\ReverseEachWordOfString.pdb
