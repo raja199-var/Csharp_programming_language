@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\TryParse\TryParse\obj\Debug\TryParse.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\TryParse\TryParse\obj\Debug\TryParse.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\TryParse\TryParse\obj\Debug\TryParse.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\TryParse\TryParse\bin\Debug\TryParse.exe.config
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\TryParse\TryParse\bin\Debug\TryParse.exe
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\TryParse\TryParse\bin\Debug\TryParse.pdb
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\TryParse\TryParse\obj\Debug\TryParse.exe
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\TryParse\TryParse\obj\Debug\TryParse.pdb

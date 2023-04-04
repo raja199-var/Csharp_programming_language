@@ -1,0 +1,20 @@
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        int a=0,b=1,c;
+        Console.WriteLine("How many terms you want to print: ");
+        int n=int.Parse(Console.ReadLine());
+        Console.WriteLine(a);
+//Console.WriteLine();
+        Console.WriteLine(b);
+        for(int i=1;i<=n-2;i++){
+            c=a+b;
+            a=b;
+            b=c;
+            Console.WriteLine(c);
+        }
+  
+    }
