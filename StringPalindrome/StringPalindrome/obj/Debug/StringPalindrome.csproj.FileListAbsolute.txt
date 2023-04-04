@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\StringPalindrome\StringPalindrome\obj\Debug\StringPalindrome.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\StringPalindrome\StringPalindrome\obj\Debug\StringPalindrome.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\StringPalindrome\StringPalindrome\obj\Debug\StringPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\StringPalindrome\StringPalindrome\bin\Debug\StringPalindrome.exe.config
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\StringPalindrome\StringPalindrome\bin\Debug\StringPalindrome.exe
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\StringPalindrome\StringPalindrome\bin\Debug\StringPalindrome.pdb
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\StringPalindrome\StringPalindrome\obj\Debug\StringPalindrome.exe
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\StringPalindrome\StringPalindrome\obj\Debug\StringPalindrome.pdb
