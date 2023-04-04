@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\ArithmeticOpersations\ArithmeticOpersations\bin\Debug\ArithmeticOpersations.exe.config
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\ArithmeticOpersations\ArithmeticOpersations\bin\Debug\ArithmeticOpersations.exe
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\ArithmeticOpersations\ArithmeticOpersations\bin\Debug\ArithmeticOpersations.pdb
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\ArithmeticOpersations\ArithmeticOpersations\obj\Debug\ArithmeticOpersations.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\ArithmeticOpersations\ArithmeticOpersations\obj\Debug\ArithmeticOpersations.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\ArithmeticOpersations\ArithmeticOpersations\obj\Debug\ArithmeticOpersations.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\ArithmeticOpersations\ArithmeticOpersations\obj\Debug\ArithmeticOpersations.exe
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\ArithmeticOpersations\ArithmeticOpersations\obj\Debug\ArithmeticOpersations.pdb

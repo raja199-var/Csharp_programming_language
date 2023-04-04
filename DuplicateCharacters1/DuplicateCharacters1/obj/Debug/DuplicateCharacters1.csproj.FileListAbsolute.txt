@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\DuplicateCharacters1\DuplicateCharacters1\bin\Debug\DuplicateCharacters1.exe.config
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\DuplicateCharacters1\DuplicateCharacters1\bin\Debug\DuplicateCharacters1.exe
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\DuplicateCharacters1\DuplicateCharacters1\bin\Debug\DuplicateCharacters1.pdb
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\DuplicateCharacters1\DuplicateCharacters1\obj\Debug\DuplicateCharacters1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\DuplicateCharacters1\DuplicateCharacters1\obj\Debug\DuplicateCharacters1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\DuplicateCharacters1\DuplicateCharacters1\obj\Debug\DuplicateCharacters1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\DuplicateCharacters1\DuplicateCharacters1\obj\Debug\DuplicateCharacters1.exe
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\DuplicateCharacters1\DuplicateCharacters1\obj\Debug\DuplicateCharacters1.pdb

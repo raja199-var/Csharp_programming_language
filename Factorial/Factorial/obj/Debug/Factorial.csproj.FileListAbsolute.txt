@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\Factorial\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\Factorial\Factorial\bin\Debug\Factorial.exe
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\Factorial\Factorial\bin\Debug\Factorial.pdb
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\Factorial\Factorial\obj\Debug\Factorial.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\Factorial\Factorial\obj\Debug\Factorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\Factorial\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\Factorial\Factorial\obj\Debug\Factorial.exe
+C:\Users\Administrator\Desktop\Raja_Kumar_Gupta\Factorial\Factorial\obj\Debug\Factorial.pdb
